@@ -1,8 +1,8 @@
 # Odev-4
 
 ## Grup Üyeleri
-- [Ad] [Soyad]
-- [Ad] [Soyad]
+- Erdinç Akdoğan
+
 
 ## İçerik
 
